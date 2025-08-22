@@ -1,0 +1,6 @@
+(undo-tree-save-format-version . 1)
+"b8827aabc9b7c5f2adb3223bfbfd6d9f34e4d153"
+[nil nil nil nil (26776 7788 848338 337000) 0 nil]
+([nil nil ((nil rear-nonsticky nil 1048 . 1049) (nil fontified nil 1 . 1049) (1 . 1049) (t 26776 7786 912192 910000)) nil (26776 7788 848336 964000) 0 nil])
+([nil current ((#("  " 0 2 (c-in-sws t face font-lock-comment-face fontified t clang-format+-chg chg ws-butler-chg chg)) . 335) (1049 . 1050)) nil (26776 7788 848333 488000) 0 nil])
+nil

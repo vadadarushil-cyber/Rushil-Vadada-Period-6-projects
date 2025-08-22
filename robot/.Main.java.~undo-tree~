@@ -1,0 +1,9 @@
+(undo-tree-save-format-version . 1)
+"9fae8d74febafa24e934fde634735cfdb9eec19a"
+[nil nil nil nil (26776 7776 27831 315000) 0 nil]
+([nil nil ((16 . 17) (80 . 81) (82 . 83) (#("
+" 0 1 (fontified nil clang-format+-chg chg ws-butler-chg chg)) . 84) 87 (128 . 129) (131 . 132) (#("
+" 0 1 (fontified nil clang-format+-chg chg ws-butler-chg chg)) . 131) 136 (138 . 139) (210 . 221) 211 (#("                " 0 16 (c-in-sws t fontified nil clang-format+-chg chg ws-butler-chg chg)) . -225) (undo-tree-id0 . -16) 241 (#("                " 0 16 (c-in-sws t fontified nil clang-format+-chg chg ws-butler-chg chg)) . -307) (undo-tree-id1 . -16) 323 (#("                " 0 16 (c-in-sws t fontified nil clang-format+-chg chg ws-butler-chg chg)) . -390) (undo-tree-id2 . -16) 406 (431 . 435) (451 . 452) (#("  " 0 2 (fontified nil clang-format+-chg chg ws-butler-chg chg)) . 451) (#("
+" 0 1 (fontified nil clang-format+-chg chg ws-butler-chg chg)) . 455) 458 (nil rear-nonsticky nil 460 . 461) (nil fontified nil 1 . 461) (1 . 461) (t 26776 7773 950059 266000)) nil (26776 7776 27828 910000) 0 nil])
+([nil current ((430 . 431)) nil (26776 7776 27766 442000) 0 nil])
+nil
